@@ -43,7 +43,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"http:\/\/sc2.radiocaroline.net:8040\/;"
+                 "value":"http:\/\/sc6.radiocaroline.net:8040\/mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
